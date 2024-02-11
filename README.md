@@ -1,4 +1,4 @@
-<h1 align="center">**Márk Bódis** - **FrontEnd Developer**</h1>
+<h1 align="center">Márk Bódis - FrontEnd Developer</h1>
 
 🔭 I’m currently working on **myself: growing and gaining knowledge.**
 
